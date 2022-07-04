@@ -53,4 +53,9 @@
             return 0;
         }
     }
+
+    public string getName()
+    {
+        return name;
+    }
 }
