@@ -36,6 +36,11 @@
         }
     }
 
+    public Kontotyp getKontotyp()
+    {
+        return konto;
+    }
+
     public string getName()
     {
         return name;
